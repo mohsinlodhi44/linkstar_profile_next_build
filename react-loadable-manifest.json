@@ -1,0 +1,160 @@
+{
+  "..\\Components\\Theme\\Basic\\BasicTheme.js -> @/Components/Components/Sections/Blog/BlogSection": {
+    "id": 4565,
+    "files": [
+      "static/chunks/305.625cd0e7b7b04ffa.js",
+      "static/chunks/409.59e396ed692125f1.js",
+      "static/css/83ff8b09cb8fceac.css",
+      "static/chunks/149.2318ae4e429f9e8e.js"
+    ]
+  },
+  "..\\Components\\Theme\\Basic\\BasicTheme.js -> @/Components/Components/Sections/Book/BookSection": {
+    "id": 3816,
+    "files": [
+      "static/chunks/305.625cd0e7b7b04ffa.js",
+      "static/chunks/653.c782bc0780a3357d.js",
+      "static/chunks/232.abbb6b7376efd3ec.js",
+      "static/chunks/409.59e396ed692125f1.js",
+      "static/css/b905251b24e9c1ff.css",
+      "static/chunks/582.68670c4bbb377900.js"
+    ]
+  },
+  "..\\Components\\Theme\\Basic\\BasicTheme.js -> @/Components/Components/Sections/Collaboration/CollaborationSection": {
+    "id": 5627,
+    "files": [
+      "static/chunks/409.59e396ed692125f1.js",
+      "static/css/8fc573adc103699f.css",
+      "static/chunks/933.c55e05412a3392d6.js"
+    ]
+  },
+  "..\\Components\\Theme\\Basic\\BasicTheme.js -> @/Components/Components/Sections/Contact/ContactSection": {
+    "id": 847,
+    "files": [
+      "static/css/9480f7822cd5314e.css",
+      "static/chunks/847.d0db667dc0a9abd8.js"
+    ]
+  },
+  "..\\Components\\Theme\\Basic\\BasicTheme.js -> @/Components/Components/Sections/Coupon/CouponSection": {
+    "id": 9531,
+    "files": [
+      "static/chunks/877.e27041c79d1ce816.js",
+      "static/chunks/409.59e396ed692125f1.js",
+      "static/css/a720714f366e7763.css",
+      "static/chunks/917.e85f72654ce76180.js"
+    ]
+  },
+  "..\\Components\\Theme\\Basic\\BasicTheme.js -> @/Components/Components/Sections/Custom/CustomSection": {
+    "id": 844,
+    "files": [
+      "static/chunks/409.59e396ed692125f1.js",
+      "static/css/9601a7dc3e6cb557.css",
+      "static/chunks/113.fef8afeee56d9cd6.js"
+    ]
+  },
+  "..\\Components\\Theme\\Basic\\BasicTheme.js -> @/Components/Components/Sections/Education/EducationSection": {
+    "id": 5124,
+    "files": [
+      "static/chunks/409.59e396ed692125f1.js",
+      "static/chunks/132.6089cd2735400e88.js",
+      "static/css/4a8c205139ac07d6.css",
+      "static/chunks/299.dc7e8444c7fe1ec6.js"
+    ]
+  },
+  "..\\Components\\Theme\\Basic\\BasicTheme.js -> @/Components/Components/Sections/Experience/ExperienceSection": {
+    "id": 2353,
+    "files": [
+      "static/chunks/305.625cd0e7b7b04ffa.js",
+      "static/chunks/409.59e396ed692125f1.js",
+      "static/css/88f4ced9801593fa.css",
+      "static/chunks/139.4254e0683276f4c8.js"
+    ]
+  },
+  "..\\Components\\Theme\\Basic\\BasicTheme.js -> @/Components/Components/Sections/Gallery/GallerySection": {
+    "id": 5979,
+    "files": [
+      "static/chunks/857.1ebb236d877b1a13.js",
+      "static/css/a8af1e8327004407.css",
+      "static/chunks/979.2224a5f53c9e8fe4.js"
+    ]
+  },
+  "..\\Components\\Theme\\Basic\\BasicTheme.js -> @/Components/Components/Sections/Highlights/HighlightsSection": {
+    "id": 9768,
+    "files": [
+      "static/chunks/305.625cd0e7b7b04ffa.js",
+      "static/chunks/409.59e396ed692125f1.js",
+      "static/css/78a7a0e0f148d46b.css",
+      "static/chunks/98.b91e8efc33b8ca5a.js"
+    ]
+  },
+  "..\\Components\\Theme\\Basic\\BasicTheme.js -> @/Components/Components/Sections/Internship/InternshipSection": {
+    "id": 5573,
+    "files": [
+      "static/chunks/305.625cd0e7b7b04ffa.js",
+      "static/chunks/409.59e396ed692125f1.js",
+      "static/css/681b957efa29a74c.css",
+      "static/chunks/486.323aba6fa2895970.js"
+    ]
+  },
+  "..\\Components\\Theme\\Basic\\BasicTheme.js -> @/Components/Components/Sections/Music/MusicSection": {
+    "id": 9896,
+    "files": [
+      "static/chunks/305.625cd0e7b7b04ffa.js",
+      "static/chunks/409.59e396ed692125f1.js",
+      "static/css/0999294c956968e0.css",
+      "static/chunks/545.e7ea547b279009b2.js"
+    ]
+  },
+  "..\\Components\\Theme\\Basic\\BasicTheme.js -> @/Components/Components/Sections/Portfolio/PortfolioSection": {
+    "id": 2586,
+    "files": [
+      "static/chunks/305.625cd0e7b7b04ffa.js",
+      "static/chunks/409.59e396ed692125f1.js",
+      "static/css/bdb1f17e121cb504.css",
+      "static/chunks/144.9743641d5176f628.js"
+    ]
+  },
+  "..\\Components\\Theme\\Basic\\BasicTheme.js -> @/Components/Components/Sections/Pricing/PricingSection": {
+    "id": 3996,
+    "files": [
+      "static/chunks/409.59e396ed692125f1.js",
+      "static/css/289e924a71332b5d.css",
+      "static/chunks/790.7e052e635fc475e7.js"
+    ]
+  },
+  "..\\Components\\Theme\\Basic\\BasicTheme.js -> @/Components/Components/Sections/Project/ProjectSection": {
+    "id": 1920,
+    "files": [
+      "static/chunks/653.c782bc0780a3357d.js",
+      "static/chunks/409.59e396ed692125f1.js",
+      "static/chunks/132.6089cd2735400e88.js",
+      "static/css/4a8c205139ac07d6.css",
+      "static/chunks/197.9190c1888cfba318.js"
+    ]
+  },
+  "..\\Components\\Theme\\Basic\\BasicTheme.js -> @/Components/Components/Sections/Service/ServiceSection": {
+    "id": 5736,
+    "files": [
+      "static/chunks/305.625cd0e7b7b04ffa.js",
+      "static/chunks/653.c782bc0780a3357d.js",
+      "static/chunks/409.59e396ed692125f1.js",
+      "static/css/24b94cfbb5ffbcdb.css",
+      "static/chunks/213.915ac271a36f2122.js"
+    ]
+  },
+  "..\\Components\\Theme\\Basic\\BasicTheme.js -> @/Components/Components/Sections/Video/VideoSection": {
+    "id": 5827,
+    "files": [
+      "static/chunks/305.625cd0e7b7b04ffa.js",
+      "static/chunks/857.1ebb236d877b1a13.js",
+      "static/css/bfedbd0c688e4378.css",
+      "static/chunks/827.1cd3bd285c2e98ab.js"
+    ]
+  },
+  "..\\Components\\Theme\\Basic\\BasicTheme.js -> @/Components/Components/Sections/Video/VideoSlider": {
+    "id": 7558,
+    "files": [
+      "static/chunks/857.1ebb236d877b1a13.js",
+      "static/chunks/558.13df042311ebcf66.js"
+    ]
+  }
+}
